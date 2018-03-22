@@ -1,0 +1,17 @@
+.background    { background: url(https://pre00.deviantart.net/cbf3/th/pre/i/2018/060/2/a/background_image_for_school_project_3_by_empressaeris-dc4ow4h.png);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: rgb(0, 0, 171); }
+.wall          { background: rgb(207, 207, 207);}
+.floater       { background: rgb(255, 0, 255);}
+
+.actor  { position: absolute;  }
+.player { background: rgb(255, 255, 255); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
